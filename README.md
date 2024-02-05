@@ -1,10 +1,10 @@
-# SmartTomorrow Innovations
+#  Future-Smart Inventions
 
-Welcome to Future Smart Inventions, a collection of groundbreaking inventions that pave the way for a sustainable future.
+Welcome to Future-Smart Inventions, a collection of groundbreaking inventions that pave the way for a sustainable future.
 
 ## Introduction
 
-Future Smart Inventions is a curated showcase of inventive technologies designed to address current and future challenges through sustainable solutions. 
+Future-Smart Inventions is a curated showcase of inventive technologies designed to address current and future challenges through sustainable solutions. 
 Each featured innovation contributes to a positive impact on the environment and society.
 
 ## Features
